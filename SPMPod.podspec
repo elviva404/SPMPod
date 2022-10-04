@@ -18,6 +18,6 @@ This CocoaPods library helps you be awesome.
   # spec.source        = { :git => 'https://github.com/elviva404.git', :tag => '#{spec.version}' }
   spec.source       = { :git => "https://github.com/elviva404/SPMPod.git", :tag => spec.version }
 
-  spec.source_files  = 'SPMPod/**/*.{h,m,swift}'
+  spec.source_files  = 'Sources/**/*.{h,m,swift}'
 
 end
